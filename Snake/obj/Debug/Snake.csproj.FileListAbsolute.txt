@@ -1,0 +1,12 @@
+C:\Users\Артур\Desktop\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Артур\Desktop\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Артур\Desktop\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Артур\Desktop\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Артур\Desktop\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Артур\Desktop\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Артур\Documents\Рабочий стол (рабочие папки)\Программирование\Язык C#\Примеры\Game_Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Артур\Documents\Рабочий стол (рабочие папки)\Программирование\Язык C#\Примеры\Game_Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Артур\Documents\Рабочий стол (рабочие папки)\Программирование\Язык C#\Примеры\Game_Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Артур\Documents\Рабочий стол (рабочие папки)\Программирование\Язык C#\Примеры\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Артур\Documents\Рабочий стол (рабочие папки)\Программирование\Язык C#\Примеры\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Артур\Documents\Рабочий стол (рабочие папки)\Программирование\Язык C#\Примеры\Snake\Snake\obj\Debug\Snake.pdb
